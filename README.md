@@ -1,0 +1,2 @@
+# RideEasy
+RideEasy is a database system, designed and developed to aid an Online Rental Cab Service Provider to function more efficiently.  * Modeled Entity-Relationship diagram, UML using Lucid Chart  * Implemented Functions, Procedures, Triggers, and table-level constraints in the Database using SQL Server * Created Data Visualization reports using PowerBi on the Data analytics’ results from Feedback records, Promo Code usages, Peek hour traffic, and Fare generation
